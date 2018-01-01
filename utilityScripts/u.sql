@@ -1,0 +1,1 @@
+select count(distinct &2) from &1;

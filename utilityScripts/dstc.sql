@@ -1,0 +1,1 @@
+select distinct &2 FROM &1;
